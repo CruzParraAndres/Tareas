@@ -16,7 +16,7 @@ h2{
     height: 250px;
     background-color: brown ;   
     transform: rotate(45deg);
-    
+    border-radius: 100%;
 }
 #cuerpo{
     margin: auto;
@@ -77,5 +77,13 @@ h2{
     width: 40px;
     height: 40px;
     background-color: red;
+    border-radius: 100%;
     
+}
+#oreja1{
+    position:absolute;
+    width:70px;
+    height:70px;
+    background-color: brown;
+    border-radius:100%;
 }
